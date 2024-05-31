@@ -7,6 +7,7 @@
     "moment": "^2.30.1"
   },
   "scripts": {
-    "lodash-demo": "node src/lodash-demo.js"
+    "lodash-demo": "node src/lodash-demo.js",
+    "moment-demo": "node src/moment-demo.js"
   }
 }
